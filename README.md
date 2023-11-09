@@ -123,7 +123,7 @@ Execute the program using runserver command.
 </html>
 '''
 
-## OUTPU!!
+## OUTPUT!
 
 ![Screenshot 2023-11-09 002000](https://github.com/Akshayasakthivels/slot/assets/144870561/c8d49f0d-22dc-4c91-a779-b8a7c018733e)
 
