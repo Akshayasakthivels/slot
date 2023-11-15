@@ -34,9 +34,9 @@ Execute the program using runserver command.
 <img src="/static/logo.png" height="100" width="540">
 </center>
 <br>
-<table align="centre" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
 <caption><b>SLOT TIME TABLE - AKSHAYA S (23008756)</b></caption>
-<tr align="centre">
+<tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
 <th bgcolor="yellow">Tuesday</th>
@@ -44,7 +44,7 @@ Execute the program using runserver command.
 <th bgcolor="yellow">Thursday</th>
 <th bgcolor="yellow">Friday</th>
 </tr>
-<tr align="centre">
+<tr align="center">
 <th bgcolor="yellow">8-10</th>
 <td>FUNDAMENTALS OF C PROGRAMMING</td>
 <td>COMMUNICATIVE ENGLISH</td>
@@ -52,7 +52,7 @@ Execute the program using runserver command.
 <td>STATISTICS AND NUMERICAL METHODS</td>
 <td>FUNDAMENTALS OF C PROGRAMMING</td>
 </tr>
-<tr align="centre">
+<tr align="center">
 <th bgcolor="yellow">10-12</th>
 <td>FREE SLOT</td>
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
@@ -62,9 +62,9 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <th bgcolor="yellow">12-1</th>
-<td colspan="5" align="centre">L U N C H</td>
+<td colspan="5" align="center">L U N C H</td>
 </tr>
-<tr align="centre">
+<tr align="center">
 <th bgcolor="yellow">1-3</th>
 <td>FREE SLOT</td>
 <td>FREE SLOT</td>
@@ -72,7 +72,7 @@ Execute the program using runserver command.
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
 <td>SOFT SKILLS</td>
 </tr>
-<tr align="centre">
+<tr align="center">
 <th bgcolor="yellow">3-5</th>
 <td>STATISTICS AND NUMERICAL METHODS</td>
 <td>FREE SLOT</td>
@@ -82,40 +82,40 @@ Execute the program using runserver command.
 </tr>
 </table>
 <br>
-<table align="centre" cellspacing="2" cellpadding="4" border="2">
-<tr align="centre">
+<table align="center" cellspacing="2" cellpadding="4" border="2">
+<tr align="center">
 <th>S.No.</th>
 <th>Subject Code</th>
 <th>Subject Name</th>
 </tr>
 <tr>
-<td align="centre">2.</td>
-<td align="centre">19AI304</td>
+<td align="center">2.</td>
+<td align="center">19AI304</td>
 <td>FUNDAMENTALS OF C PROGRAMMING(C PROGRAME)</td>
 </tr>
 <tr>
-<td align="centre">2.</td>
-<td align="centre">19AI304</td>
+<td align="center">2.</td>
+<td align="center">19AI304</td>
 <td>FUNDAMENTALS OF C PROGRAMMING(C PROGRAM)</td>
 </tr>
 <tr>
-<td align="centre">3.</td>
-<td align="centre">19AI414</td>
+<td align="center">3.</td>
+<td align="center">19AI414</td>
 <td>FUNDAENTALS OF WEB APPLICATION DEVELOPMENT(FWAD)</td>
 </tr>
 <tr>
-<td align="centre">3.</td>
-<td align="centre">19AI414</td>
+<td align="center">3.</td>
+<td align="center">19AI414</td>
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT(FWAD)</td>
 </tr>
 <tr>
-<td align="centre">4.</td>
-<td align="centre">19CY205</td>
+<td align="center">4.</td>
+<td align="center">19CY205</td>
 <td>Principles of Chemistry in Engineering (CHE)</td>
 </tr>
 <tr>
-<td align="centre">6.</td>
-<td align="centre">19EY701</td>
+<td align="center">6.</td>
+<td align="center">19EY701</td>
 <td>Soft Skills(SS)</td>
 </tr>
 </table>
